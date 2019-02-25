@@ -1,3 +1,7 @@
 deep_learning.code-workspace
-Dropbox_Chollet.pdf
+#Dropbox_Chollet.pdf
 Dropbox_Chollet_backup.pdf
+*.pdf
+.ipynb_checkpoints
+data
+\.vscode/
